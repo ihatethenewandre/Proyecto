@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-swiperefresh:0.26.2-beta@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jetpack-compose-recipe-app/caches/transforms-3/af762b46a1d4bd6f5d3f2964f6dac9e3/transformed/accompanist-swiperefresh-0.26.2-beta/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../jetpack-compose-recipe-app/caches/transforms-3/af762b46a1d4bd6f5d3f2964f6dac9e3/transformed/accompanist-swiperefresh-0.26.2-beta/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../jetpack-compose-recipe-app/caches/modules-2/files-2.1/com.google.accompanist/accompanist-swiperefresh/0.26.2-beta/52dc37a9dc38f67503ec0243f0e765962e2289b0/accompanist-swiperefresh-0.26.2-beta-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jetpack-compose-recipe-app/caches/modules-2/files-2.1/com.google.accompanist/accompanist-swiperefresh/0.26.2-beta/626eb0dd17dabcb634dcd9cfa49a3d74fb597c76/accompanist-swiperefresh-0.26.2-beta-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
